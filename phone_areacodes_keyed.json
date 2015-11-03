@@ -1648,5 +1648,527 @@
     "Country":"USA",
     "Timezone":-5,
     "Region":"Vermont: All regions"
+  },
+  "803": {
+    "State":"SC",
+    "Country":"USA",
+    "Timezone":-5,
+    "Region":"Columbia"
+  },
+  "804": {
+    "State":"VA",
+    "Country":"USA",
+    "Timezone":-5,
+    "Region":"Richmond, Lynchburg, Petersburg,"
+  },
+  "805": {
+    "State":"CA",
+    "Country":"USA",
+    "Timezone":-8,
+    "Region":"Santa Barbara, Thousand Oaks, San Luis Obispo, Ventura, Oxnard, Simi Valley"
+  },
+  "806": {
+    "State":"TX",
+    "Country":"USA",
+    "Timezone":-6,
+    "Region":"Amarillo, Lubbock"
+  },
+  "807": {
+    "State":"ON",
+    "Country":"CAN",
+    "Timezone":-5,
+    "Region":"Western Ontario: Thunder Bay"
+  },
+  "808": {
+    "State":"HI",
+    "Country":"USA",
+    "Timezone":-10,
+    "Region":"Hawaii: All regions"
+  },
+  "809": {
+    "State":"",
+    "Country":"USA",
+    "Timezone":-4,
+    "Region":"Caribbean Islands without their own Area Code (Nevis/St. Kitts)"
+  },
+  "810": {
+    "State":"MI",
+    "Country":"USA",
+    "Timezone":-5,
+    "Region":"Flint, Port Huron, Lapeer, Brighton, Sandusky"
+  },
+  "812": {
+    "State":"IN",
+    "Country":"USA",
+    "Timezone":-5,
+    "Region":"Evansville, Bloomington, Terre Haute, New Albany"
+  },
+  "813": {
+    "State":"FL",
+    "Country":"USA",
+    "Timezone":-5,
+    "Region":"Tampa"
+  },
+  "814": {
+    "State":"PA",
+    "Country":"USA",
+    "Timezone":-5,
+    "Region":"Altoona, Johnstown, Erie, Punxsutawney"
+  },
+  "815": {
+    "State":"IL",
+    "Country":"USA",
+    "Timezone":-6,
+    "Region":"La Salle, Joliet, Rockford, DeKalb"
+  },
+  "816": {
+    "State":"MO",
+    "Country":"USA",
+    "Timezone":-6,
+    "Region":"Kansas City, Saint Joseph, Independence, Gladstone"
+  },
+  "817": {
+    "State":"TX",
+    "Country":"USA",
+    "Timezone":-6,
+    "Region":"Fort Worth, Arlington, Euless, Grapevine"
+  },
+  "818": {
+    "State":"CA",
+    "Country":"USA",
+    "Timezone":-8,
+    "Region":"Van Nuys, Canoga Park, Burbank, San Fernando, Glendale, N. Hollywood"
+  },
+  "819": {
+    "State":"QC",
+    "Country":"CAN",
+    "Timezone":-5,
+    "Region":"Hull, Sherbrooke, Trois-Riviers, Gatineau"
+  },
+  "828": {
+    "State":"NC",
+    "Country":"USA",
+    "Timezone":-5,
+    "Region":"Asheville, Hickory, Morganton, Hendersonville, Lenoir, Boone, Andrews, Murphy, Marble"
+  },
+  "829": {
+    "State":"",
+    "Country":"DOM",
+    "Timezone":-4,
+    "Region":"Dominican Republic"
+  },
+  "830": {
+    "State":"TX",
+    "Country":"USA",
+    "Timezone":-6,
+    "Region":"New Braunfels, Del Rio, Seguin, Kerrville, Eagle Pass, Fredericksburg"
+  },
+  "831": {
+    "State":"CA",
+    "Country":"USA",
+    "Timezone":-8,
+    "Region":"Monterey, Santa Cruz, Salinas, Hollister, Aptos, Carmel"
+  },
+  "832": {
+    "State":"TX",
+    "Country":"USA",
+    "Timezone":-6,
+    "Region":"Overlay of 713, 281 Area Codes (Houston)."
+  },
+  "843": {
+    "State":"SC",
+    "Country":"USA",
+    "Timezone":-5,
+    "Region":"Charleston, Florence, Myrtle Beach, Hilton Head"
+  },
+  "845": {
+    "State":"NY",
+    "Country":"USA",
+    "Timezone":-5,
+    "Region":"Poughkeepsie, Spring Valley, Newburgh, Kingston, Nyack, Middletown, Brewster, Pearl River"
+  },
+  "847": {
+    "State":"IL",
+    "Country":"USA",
+    "Timezone":-6,
+    "Region":"Northbrook, Skokie, Evanston, Glenview, Waukegan, Desplaines, Elk Grove (North suburbs of Chicago)"
+  },
+  "848": {
+    "State":"NJ",
+    "Country":"USA",
+    "Timezone":-5,
+    "Region":"Overlay of 732 area code."
+  },
+  "849": {
+    "State":"",
+    "Country":"DOM",
+    "Timezone":-4,
+    "Region":"Dominican Republic"
+  },
+  "850": {
+    "State":"FL",
+    "Country":"USA",
+    "Timezone":-6,
+    "Region":"Tallahassee, Pensacola, Fort Walton Beach, Panama City"
+  },
+  "855": {
+    "State":"",
+    "Country":"USA",
+    "Timezone":0,
+    "Region":"Toll Free"
+  },
+  "856": {
+    "State":"NJ",
+    "Country":"USA",
+    "Timezone":-5,
+    "Region":"Camden, Haddonfield, Moorestown, Merchantville, Vineland, Laurel Springs"
+  },
+  "857": {
+    "State":"MA",
+    "Country":"USA",
+    "Timezone":-5,
+    "Region":"Overlay of 617 area code."
+  },
+  "858": {
+    "State":"CA",
+    "Country":"USA",
+    "Timezone":-8,
+    "Region":"La Jolla, Rancho Bernardo, del Mar, Poway, Rancho Penasquitos, Rancho Santa Fe"
+  },
+  "859": {
+    "State":"KY",
+    "Country":"USA",
+    "Timezone":-5,
+    "Region":"Lexington, Covington, Boone, Winchester, Richmond, Danville, Mount Sterling"
+  },
+  "860": {
+    "State":"CT",
+    "Country":"USA",
+    "Timezone":-5,
+    "Region":"Hartford, New London, Norwich, Middletown, Bristol"
+  },
+  "862": {
+    "State":"NJ",
+    "Country":"USA",
+    "Timezone":-5,
+    "Region":"Overlay of 973 area code."
+  },
+  "863": {
+    "State":"FL",
+    "Country":"USA",
+    "Timezone":-5,
+    "Region":"Lakeland, Winter Haven, Lake Wales, Sebring, Haines City, Bartow, Avon Park, Okeechobee, Wachula"
+  },
+  "864": {
+    "State":"SC",
+    "Country":"USA",
+    "Timezone":-5,
+    "Region":"Greenville, Spartanburg, Anderson"
+  },
+  "865": {
+    "State":"TN",
+    "Country":"USA",
+    "Timezone":-5,
+    "Region":"Knoxville, Maryville, Oak Ridge, Sevierville, Gatlinburg, Concord, Powell"
+  },
+  "866": {
+    "State":"",
+    "Country":"USA",
+    "Timezone":0,
+    "Region":"Toll Free"
+  },
+  "867": {
+    "State":"YT",
+    "Country":"CAN",
+    "Timezone":-8,
+    "Region":"Yukon, Northwest Territories: Whitehorse, Yellow Knife, Nunavut"
+  },
+  "868": {
+    "State":"",
+    "Country":"TTO",
+    "Timezone":-4,
+    "Region":"Trinidad and Tobago"
+  },
+  "869": {
+    "State":"",
+    "Country":"USA",
+    "Timezone":-5,
+    "Region":"Nevis & St. Kitts"
+  },
+  "870": {
+    "State":"AR",
+    "Country":"USA",
+    "Timezone":-6,
+    "Region":"Texarkana, Jonesboro, Pine Bluff, El Dorado"
+  },
+  "872": {
+    "State":"IL",
+    "Country":"USA",
+    "Timezone":-6,
+    "Region":"Overlay of 312 and 773 area codes."
+  },
+  "873": {
+    "State":"QC",
+    "Country":"CAN",
+    "Timezone":-5,
+    "Region":"Overlay of 819 Area Code"
+  },
+  "876": {
+    "State":"",
+    "Country":"JAM",
+    "Timezone":-5,
+    "Region":"Jamaica\n877,,USA,0,"
+  },
+  "878": {
+    "State":"PA",
+    "Country":"USA",
+    "Timezone":-5,
+    "Region":"Overlay of 412, 724 area codes."
+  },
+  "880": {
+    "State":"",
+    "Country":"USA",
+    "Timezone":0,
+    "Region":"Carribean to U.S. or Canada OR Canada to U.S. Toll Free"
+  },
+  "881": {
+    "State":"",
+    "Country":"USA",
+    "Timezone":0,
+    "Region":"Carribean to U.S. or Canada OR Canada to U.S. Toll Free"
+  },
+  "888": {
+    "State":"",
+    "Country":"USA",
+    "Timezone":0,
+    "Region":"Toll Free"
+  },
+  "900": {
+    "State":"",
+    "Country":"USA",
+    "Timezone":0,
+    "Region":"Used for Mass Calling Value Added Information"
+  },
+  "901": {
+    "State":"TN",
+    "Country":"USA",
+    "Timezone":-6,
+    "Region":"Memphis, Collierville"
+  },
+  "902": {
+    "State":"NS",
+    "Country":"CAN",
+    "Timezone":-4,
+    "Region":"Nova Scotia, Prince Edward Island"
+  },
+  "903": {
+    "State":"TX",
+    "Country":"USA",
+    "Timezone":-6,
+    "Region":"Longview, Tyler, Texarkana, Paris, Kilgore, Sherman, Denison"
+  },
+  "904": {
+    "State":"FL",
+    "Country":"USA",
+    "Timezone":-5,
+    "Region":"Jacksonville, Saint Augustine, Orange Park, Fernandina Beach"
+  },
+  "905": {
+    "State":"ON",
+    "Country":"CAN",
+    "Timezone":-5,
+    "Region":"Ontario: Hamilton, Niagara Falls, Markham, Mississauga, Brampton"
+  },
+  "906": {
+    "State":"MI",
+    "Country":"USA",
+    "Timezone":-5,
+    "Region":"Marquette, Iron Mountain, Houghton, Sault Ste Marie"
+  },
+  "907": {
+    "State":"AK",
+    "Country":"USA",
+    "Timezone":-9,
+    "Region":"Alaska: All regions"
+  },
+  "908": {
+    "State":"NJ",
+    "Country":"USA",
+    "Timezone":-5,
+    "Region":"Elizabeth, New Brunswick, Somerville, Freehold, Unionville, Plainfield"
+  },
+  "909": {
+    "State":"CA",
+    "Country":"USA",
+    "Timezone":-8,
+    "Region":"San Bernardino, Ontario, Upland, Pomona, Riverside, Colton, Chino"
+  },
+  "910": {
+    "State":"NC",
+    "Country":"USA",
+    "Timezone":-5,
+    "Region":"Fayetteville, Wilmington, Jacksonville, Lumberton, Laurinburg, Southern Pines"
+  },
+  "912": {
+    "State":"GA",
+    "Country":"USA",
+    "Timezone":-5,
+    "Region":"Savannah, Macon, Waycross, Brunswick, Statesboro, Vidalia"
+  },
+  "913": {
+    "State":"KS",
+    "Country":"USA",
+    "Timezone":-6,
+    "Region":"Melrose, Kansas City"
+  },
+  "914": {
+    "State":"NY",
+    "Country":"USA",
+    "Timezone":-5,
+    "Region":"Westchester, Monroe, Mount Vernon, Mount Kisco, Pleasantville"
+  },
+  "915": {
+    "State":"TX",
+    "Country":"USA",
+    "Timezone":-7,
+    "Region":"El Paso, Socorro, Fabens, Dell City, Van Horn, Fort Bliss"
+  },
+  "916": {
+    "State":"CA",
+    "Country":"USA",
+    "Timezone":-8,
+    "Region":"Sacramento, Roseville, Fair Oaks, Folsom, Elk Grove, South Placer"
+  },
+  "917": {
+    "State":"NY",
+    "Country":"USA",
+    "Timezone":-5,
+    "Region":"Overlay of 212/718 (New York City - cellular/pager only)"
+  },
+  "918": {
+    "State":"OK",
+    "Country":"USA",
+    "Timezone":-6,
+    "Region":"Tulsa, Broken Arrow, Muskogee, Bartlesville, McAlester"
+  },
+  "919": {
+    "State":"NC",
+    "Country":"USA",
+    "Timezone":-5,
+    "Region":"Raleigh, Durham, Cary, Chapel Hill, Goldsboro, Apex, Sanford, Wake Forest"
+  },
+  "920": {
+    "State":"WI",
+    "Country":"USA",
+    "Timezone":-6,
+    "Region":"Green Bay, Appleton, Racine, Fond du Lac, Oshkosh, Sheboygan"
+  },
+  "925": {
+    "State":"CA",
+    "Country":"USA",
+    "Timezone":-8,
+    "Region":"Walnut Creek, Pleasanton, Concord, Livermore, Bishop Ranch, Danville, Antioch"
+  },
+  "928": {
+    "State":"AZ",
+    "Country":"USA",
+    "Timezone":-7,
+    "Region":"Yuma, Flagstaff, Prescott, Sedona, Bullhead City, Kingman, Lake Havasu City"
+  },
+  "929": {
+    "State":"NY",
+    "Country":"USA",
+    "Timezone":-5,
+    "Region":"Overlay of 718 Area Code (Bronx, Brooklyn, Queens, Staten Island)."
+  },
+  "931": {
+    "State":"TN",
+    "Country":"USA",
+    "Timezone":-6,
+    "Region":"Clarksville, Shelbyville, Cookeville, Columbia"
+  },
+  "936": {
+    "State":"TX",
+    "Country":"USA",
+    "Timezone":-6,
+    "Region":"Conroe, Nacogdoches, Huntsville, Lufkin, Madisonville"
+  },
+  "937": {
+    "State":"OH",
+    "Country":"USA",
+    "Timezone":-5,
+    "Region":"Dayton, Springfield, Bellefontaine, Beavercreek, Franklin"
+  },
+  "938": {
+    "State":"AL",
+    "Country":"USA",
+    "Timezone":-6,
+    "Region":"Overlay of 256 area code."
+  },
+  "939": {
+    "State":"PR",
+    "Country":"PRI",
+    "Timezone":-4,
+    "Region":"Overlay of 787 area code."
+  },
+  "940": {
+    "State":"TX",
+    "Country":"USA",
+    "Timezone":-6,
+    "Region":"Wichita Falls, Denton, Gainesville"
+  },
+  "941": {
+    "State":"FL",
+    "Country":"USA",
+    "Timezone":-5,
+    "Region":"Sarasota, Bradenton, Venice, Port Charlotte, Punta Gorda"
+  },
+  "947": {
+    "State":"MI",
+    "Country":"USA",
+    "Timezone":-5,
+    "Region":"Overlay of 248 Area Code."
+  },
+  "949": {
+    "State":"CA",
+    "Country":"USA",
+    "Timezone":-8,
+    "Region":"Irvine, Saddleback Valley, Newport Beach, Capistrano Valley, Laguna Beach"
+  },
+  "951": {
+    "State":"CA",
+    "Country":"USA",
+    "Timezone":-8,
+    "Region":"Riverside, Corona, Temecula, Arlington, Hemet, Moreno Valley, Murietta, Sun City, Elsinore"
+  },
+  "952": {
+    "State":"MN",
+    "Country":"USA",
+    "Timezone":-6,
+    "Region":"Bloomington, Burnsville, Eden Prairie, Minnetonka, Edina, St. Louis Park, Apple Valley"
+  },
+  "954": {
+    "State":"FL",
+    "Country":"USA",
+    "Timezone":-5,
+    "Region":"Fort Lauderdale, Hollywood, Pompano Beach, Deerfield Beach, Coral Springs"
+  },
+  "956": {
+    "State":"TX",
+    "Country":"USA",
+    "Timezone":-6,
+    "Region":"Brownsville, Laredo, McAllen, Harlingen, Edinburg"
+  },
+  "970": {
+    "State":"CO",
+    "Country":"USA",
+    "Timezone":-7,
+    "Region":"Fort Collins, Greeley, Grand Junction, Loveland, Durango, Vail"
+  },
+  "971": {
+    "State":"OR",
+    "Country":"USA",
+    "Timezone":-8,
+    "Region":"Overlay of 503 area code."
   }
 }
