@@ -2170,5 +2170,53 @@
     "Country":"USA",
     "Timezone":-8,
     "Region":"Overlay of 503 area code."
+  },
+  "972": {
+    "State":"TX",
+    "Country":"USA",
+    "Timezone":-6,
+    "Region":"Texas: Dallas Metro (overlays 214/469)"
+  },
+  "973": {
+    "State":"NJ",
+    "Country":"USA",
+    "Timezone":-5,
+    "Region":"New Jersey: Newark, Paterson, Morristown (see overlay 862; split from 201)\"\n975,MO,USA,-6,"
+  },
+  "978": {
+    "State":"MA",
+    "Country":"USA",
+    "Timezone":-5,
+    "Region":"Massachusetts: north of Boston to NH (see split 978 -- this is the northern half of old 508; see overlay 351)"
+  },
+  "979": {
+    "State":"TX",
+    "Country":"USA",
+    "Timezone":-6,
+    "Region":"SE Texas: Bryan, College Station, Bay City (split from 409, see also 936)"
+  },
+  "980": {
+    "State":"NC",
+    "Country":"USA",
+    "Timezone":-5,
+    "Region":"North Carolina: (overlay on 704; perm 5/1/00, mand 3/15/01)"
+  },
+  "984": {
+    "State":"NC",
+    "Country":"USA",
+    "Timezone":-5,
+    "Region":"E North Carolina: Raleigh (overlaid on 919, perm 8/1/01, mand 2/5/02 POSTPONED)"
+  },
+  "985": {
+    "State":"LA",
+    "Country":"USA",
+    "Timezone":-6,
+    "Region":"E Louisiana: SE/N shore of Lake Pontchartrain: Hammond, Slidell, Covington, Amite, Kentwood, area SW of New Orleans, Houma, Thibodaux, Morgan City (split from 504; perm 2/12/01; mand 10/22/01)"
+  },
+  "989": {
+    "State":"MI",
+    "Country":"USA",
+    "Timezone":-5,
+    "Region":"Upper central Michigan: Mt Pleasant, Saginaw (split from 517; perm 4/7/01)"
   }
 }
